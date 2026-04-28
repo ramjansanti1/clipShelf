@@ -1,0 +1,5 @@
+C:\Ayan\New folder\bin\Release\net10.0-windows\publish\ClipShelf.exe
+C:\Ayan\New folder\bin\Release\net10.0-windows\publish\ClipShelf.dll
+C:\Ayan\New folder\bin\Release\net10.0-windows\publish\ClipShelf.deps.json
+C:\Ayan\New folder\bin\Release\net10.0-windows\publish\ClipShelf.runtimeconfig.json
+C:\Ayan\New folder\bin\Release\net10.0-windows\publish\ClipShelf.pdb

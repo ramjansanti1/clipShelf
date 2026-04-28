@@ -1,0 +1,5 @@
+c:\Ayan\New folder\bin\Release\ClipShelfModern\ClipShelfModern.exe
+c:\Ayan\New folder\bin\Release\ClipShelfModern\ClipShelfModern.dll
+c:\Ayan\New folder\bin\Release\ClipShelfModern\ClipShelfModern.deps.json
+c:\Ayan\New folder\bin\Release\ClipShelfModern\ClipShelfModern.runtimeconfig.json
+c:\Ayan\New folder\bin\Release\ClipShelfModern\ClipShelfModern.pdb

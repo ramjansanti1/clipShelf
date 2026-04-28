@@ -1,0 +1,29 @@
+C:\Ayan\New folder\bin\Release\net10.0-windows\ClipShelf.exe
+C:\Ayan\New folder\bin\Release\net10.0-windows\ClipShelf.dll
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.AssemblyInfoInputs.cache
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.AssemblyInfo.cs
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.csproj.CoreCompileInputs.cache
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.genruntimeconfig.cache
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.dll
+C:\Ayan\New folder\obj\Release\net10.0-windows\refint\ClipShelf.dll
+C:\Ayan\New folder\obj\Release\net10.0-windows\ClipShelf.pdb
+C:\Ayan\New folder\bin\Release\net10.0-windows\ClipShelf.deps.json
+C:\Ayan\New folder\bin\Release\net10.0-windows\ClipShelf.runtimeconfig.json
+C:\Ayan\New folder\bin\Release\net10.0-windows\ClipShelf.pdb
+C:\Ayan\New folder\obj\Release\net10.0-windows\ref\ClipShelf.dll
+C:\Ayan\clipShelf\bin\Release\net10.0-windows\ClipShelf.exe
+C:\Ayan\clipShelf\bin\Release\net10.0-windows\ClipShelf.deps.json
+C:\Ayan\clipShelf\bin\Release\net10.0-windows\ClipShelf.runtimeconfig.json
+C:\Ayan\clipShelf\bin\Release\net10.0-windows\ClipShelf.dll
+C:\Ayan\clipShelf\bin\Release\net10.0-windows\ClipShelf.pdb
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.AssemblyInfoInputs.cache
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.AssemblyInfo.cs
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.csproj.CoreCompileInputs.cache
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.dll
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\refint\ClipShelf.dll
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.pdb
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.genruntimeconfig.cache
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ref\ClipShelf.dll
+C:\Ayan\clipShelf\obj\Release\net10.0-windows\ClipShelf.sourcelink.json
